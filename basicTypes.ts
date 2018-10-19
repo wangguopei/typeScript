@@ -17,7 +17,6 @@ address line 2
 let greeting: string = `${firstName} ${lastName} home is ${address}`;
 
 //console.log(greeting);
-
 //two ways to define array
 let listOne: number[] = [1, 2, 3];
 let listTwo: Array<number> = [1, 2, 3];
